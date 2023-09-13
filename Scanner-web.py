@@ -1,6 +1,6 @@
 import requests,socket,re
 print("""
-   _____    By J0KER @vv1ck       
+   _____    By @ittz_danyar @tools_vip       
   / ___/_________ _____  ____  ___  _____    
   \__ \/ ___/ __ `/ __ \/ __ \/ _ \/ ___/    
  ___/ / /__/ /_/ / / / / / / /  __/ / Web
